@@ -1,5 +1,5 @@
 # Quests
-This repo stores self-contained tasks related to R Group projects that anyone can take on. 
+This repo stores self-contained tasks related to R Group projects that anyone can take on. Quests are managed as issues in this repo.
 
 In the future, we may use these tasks as:
 1. Good tasks for more junior or part-time R Group members.

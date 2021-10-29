@@ -6,3 +6,4 @@ In the future, we may use these tasks as:
 2. Bounties for new DAO contributors to start with in order to gain community trust.
 
 ### [Create a quest here](https://github.com/R-Group-Devs/quests/issues/new?assignees=&labels=&template=quest-template.md&title=)
+**If you are not an R Group member, do NOT create issues in this repository!**
